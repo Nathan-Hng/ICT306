@@ -1,0 +1,31 @@
+"smartphone_fk","stockage","dimension","prix","autonomie","marque","os","poids","ecran","puce","facture_fk","client_fk"
+"Galaxy S24","128/256 Go","70,6 x 147 x 7,6 mm","699,00/759,00 €","29 heure","Samsung","Android","168g","6,2","Snapdragon 8 Gen 3",NULL,NULL
+"Galaxy S24 +","256/512 Go ","162,3 x 79,0 x 8,6 mm","699,00/759,00 €","31 heure","Samsung","Android","196g","6,2 / 6,7","Snapdragon 8 Gen 3 ",NULL,NULL
+"Galaxy S24 Ultra","256/512/1000 Go","162.3 x 79.0 x 8.6 mm","1472,05/1592,05/1832,05 €","30 heure","Samsung","Android","232g","6,8","Snapdragon 8 Gen 3",NULL,NULL
+"Galaxy S25","128/256/512 Go","146,9 x 70,5 x 7,2 mm","902,05/962,05/1082,05 €","29 heure","Samsung","Android","162g","6,2","Snapdragon 8 Gen 4",NULL,NULL
+"Galaxy S25 +","256/512 Go","158,44 x 75,79 x 7,35","1172,05/1292,05 €","30 heure","Samsung","Android","190g","6,2","Snapdragon 8 Elite",NULL,NULL
+"Galaxy S25 Ultra","256 / 512 Go / 1 To","162,8 x 77,6 x 8,2 mm","1472,05/1592,05/1832,05 €","31 heure","Samsung","Android","218g","6,9","Snapdragon 8 Elite",NULL,NULL
+"Galaxy Z Flip 6","256/512 Go ","165,1 x 71,9 x 6,9 mm","1002,05/1122,05 €","23 heure","Samsung","Android","187g","6,7","Snapdragon 8 Gen 2 chipset",NULL,NULL
+"Galaxy Z Fold 6","256/512 Go ","153,5 x 132,6 x 5,6 mm","1499,00/1922,05 €","23 heure ","Samsung","Android","239g","7,6","Snapdragon 8 Gen 3 chipset",NULL,NULL
+"Iphone 15","128 / 256 / 512 Go","147,6mm / 71,6mm"," 969/1099/1349 € "," 20 heure ","Apple"," IOS ","171g","6,1","A16 Bionic",NULL,NULL
+"Iphone 15 Plus","128 / 256 / 512 Go","160,9mm / 77,8mm"," 969/1099/1349 € "," 26 heure ","Apple"," IOS ","201g","6,7","A16 Bionic",NULL,NULL
+"Iphone 15 Pro","128 / 256 / 512 Go / 1 To","146,6mm / 70,6mm"," 969/1099/1349 € "," 23 heure  ","Apple"," IOS ","187g","6,1","A17 Pro",NULL,NULL
+"Iphone 15 Pro Max","256 / 512 Go / 1 To","159,9mm / 76,7mm"," 969/1099/1349 € "," 29 heure ","Apple"," IOS ","221g","6,7","A17 Pro",NULL,NULL
+"Iphone 16","128 / 256 / 512 Go","147,6mm / 71,6mm"," 969/1099/1349 € "," 22 heure ","Apple"," IOS ","170g","6,1","A18",NULL,NULL
+"Iphone 16 Plus","128 / 256 / 512 Go","160,9mm / 77,8 mm"," 969/1099/1349 € "," 27 heure ","Apple"," IOS ","199g","6,7","A18",NULL,NULL
+"Iphone 16 pro","128 / 256 / 512 Go / 1 To","149,6mm/71,5mm"," 969/1099/1349 € "," 27 heure ","Apple"," IOS ","199g","6,3","A18 pro",NULL,NULL
+"Iphone 16 pro max","256 / 512 Go/1 To","163mm/77,6mm"," 969/1099/1349 € "," 33 heure ","Apple"," IOS ","227g","6,9","A18 pro",NULL,NULL
+"Pixel 8 ","128/256 Go","150,5 x 70,8 x 8,9 mm","699/759 €","24 heure","Google","Android","187 g","6,2","Tensor G3",NULL,NULL
+"Pixel 8 Pro","128/256/512 Go","162,6 x 76,5 x 8,8 mm","999/1059/1199 €","24 heure","Google","Android","213 g","6,7","Tensor G3",NULL,NULL
+"Pixel 9","128/256 Go","152,8 x 72 x 8,5 mm","899/999 €","24 heure","Google","Android","198 g","6,3","Tensor G4",NULL,NULL
+"Pixel 9 Pro","256/512 Go","152,8 x 72 x 8,5 mm","1899/2029 €","24 heure","Google","Android","199 g","6,8","Tensor G4",NULL,NULL
+"Xiaomi 13T ","256 Go ","162,2 x 75,7 x 8,49 mm","653.00 €","11 heure ","Xiaomi","HyperOS 2","193 g","6,67","MediaTek Dimensity 8200-Ultra",NULL,NULL
+"Xiaomi 13T Pro","256 Go ","162,2 x 75,7 x 8,49 mm","1 003.00 €","11 heure ","Xiaomi","HyperOS 2","202 g","6,6","MediaTek Dimensity 9200+",NULL,NULL
+"Xiaomi 14 ","256 Go ","152,8 x 71,5 x 8,20 mm","1 103.00 €","11 heure ","Xiaomi","HyperOS 2","193 g","6,36","Snapdragon 8 Gen 3 ",NULL,NULL
+"Xiaomi 14 Ultra","512 Go","161,4 x 75,3 x 9,20 mm","1 003.00 €","11 heure ","Xiaomi","HyperOS 2","219,8 g ","6,73","Snapdragon 8 Gen 3 Octo-Core",NULL,NULL
+"Xiaomi 14T ","256 Go ","160,4 x 75,1 x 8,39 mm","653.00 €","11 heure ","Xiaomi","HyperOS 2","209 g ","6,67","MediaTek Dimensity 8300-Ultra",NULL,NULL
+"Xiaomi 14T Pro","256 Go ","160,4 x 75,1 x 8,39 mm","803.00 €","11 heure ","Xiaomi","HyperOS 2","209 g","6,67","MediaTek Dimensity 9300+",NULL,NULL
+"Xiaomi MIX Flip","512 Go","74,02 x 7,8 x 15,99 mm","1 303.00 €","11 heure ","Xiaomi","HyperOS 2","192g","6,86","Snapdragon 8 Gen 3 ",NULL,NULL
+"Xiaomi Redmi 14C","128 Go","171,88 x 77,8 x 8,22 mm","143.00 €","11 heure ","Xiaomi","HyperOS 2","211 g","6,88","MediaTek Helio G81-Ultra",NULL,NULL
+"Xiaomi Redmi Note 13 Pro","256 Go ","161,15 x 74,24 x 7,98 mm","200.00 €","11 heure ","Xiaomi","HyperOS 2","187 g","6,6","Snapdragon 8 Gen 2  ",NULL,NULL
+"Xiaomi Redmi Note 9","64 Go","163,3 x 77 x 9,1 mm","114.00 €","11 heure ","Xiaomi","HyperOS 2","198 g","6,53","Helio G80",NULL,NULL
